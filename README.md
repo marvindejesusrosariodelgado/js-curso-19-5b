@@ -1,6 +1,6 @@
 # Lab #3: Enlazando mi proyecto con Github:
 
-*.md Mark down 
+*.md MarkDown 
 
 Prof. Remote link: https://github.com/marvindejesusrosariodelgado/js-curso-19-5b.git
 ##TODO-LIST:
