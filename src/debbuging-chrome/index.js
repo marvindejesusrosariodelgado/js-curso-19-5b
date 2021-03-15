@@ -20,7 +20,7 @@
  
 //creamos un ciclo for 
 
-for (let index = 1; index < veces; index++) {
+for (let index = 1; index <= veces; index++) {
 
 //la variable index se va a incrementando en 1 
 //hasta que index < veces deje de ser cierto.
@@ -41,7 +41,7 @@ for (let index = 1; index < veces; index++) {
 
  }
  
-const nom = prompt ('escriibe tu nombre');
+const nom = prompt ('escribe tu nombre');
 const vsc = parseInt(prompt("Escribe la vsc que lo mostraras"));
 
 repetir(nom, vsc)
