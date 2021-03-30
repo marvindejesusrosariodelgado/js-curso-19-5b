@@ -29,7 +29,27 @@ Prof. Remote link: https://github.com/marvindejesusrosariodelgado/js-curso-19-5b
 * [x] Editar archivo **.gitignore** para ignorar el archivo **package-lock.json**
 * [x]    Instalar **colors** con el cambio ``npm i colors`` cambio install por i.
 * [x] Confirmar mi **package.json** tenga las dependencias de **yargs** y **colors**
-* [x] Usar comando **git add .** para prepara los cambios.
+* [x] Usar comando **git add .** para prepara los cambios.gi
 * [x] usar comando **git commit -am "Instlalar paquetesd y colors"**.
 * [x] Usar comando **git push** para subir mis caambios al remoto.
+ 
 
+### Lab 8.2 Creacion Organizacion de proyecto.
+* [x] Crear el archivo **node-CLI/app.js
+* [x] hacemos **git add**
+* [x] Hacemos **git commit -am "crea app.js"**
+* [x] Hacemos **git push**
+
+
+* [] Crear el directorio **node-CLI/tools** con
+* []  Crear **node-CLI/tools/index.js**
+* [] Crear **node-CLI/tools/argvs.js**
+* [] Crear **node-CLI/tools/files.js**
+* [] Crear **node-CLI/tools/options.js**
+* [] Crear **node-CLI/tools/task.js**
+
+* [] Crear el directorio **node-CLI/db** con
+* [] Hacemos  **node-CLI/db/task.json**
+* [] hacemos **git add**
+* [] Hacemos **git commit -am "crea tools settings"**
+* [] Hacemos **git push**
