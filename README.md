@@ -39,10 +39,8 @@ Prof. Remote link: https://github.com/marvindejesusrosariodelgado/js-curso-19-5b
 * [x] hacemos **git add .**
 * [x] Hacemos **git commit -am "crea app.js"**
 * [x] Hacemos **git push**
-
-
 * [x] Crear el directorio **node-CLI/tools** con
-* [x]  Crear **node-CLI/tools/index.js**
+* [x] Crear **node-CLI/tools/index.js**
 * [x] Crear **node-CLI/tools/argvs.js**
 * [x] Crear **node-CLI/tools/files.js**
 * [x] Crear **node-CLI/tools/options.js**
@@ -52,3 +50,22 @@ Prof. Remote link: https://github.com/marvindejesusrosariodelgado/js-curso-19-5b
 * [x] hacemos **git add .**
 * [x] Hacemos **git commit -am "crea tools settings"**
 * [x] Hacemos **git push**
+
+### Lab8.3 Trabajando con fichero en Node
+
+* [x] Empezamos a trabajar con **files.js**
+* [x] Importamos paquetes **path** y **colors**
+
+* [x] Usamos paquetes importados en nuestro codigo con la funcion **loasTask()**
+* [x] Exportamos nuestra funcion **loadTask()**
+* [x] Pruebas de loadTask
+* [x] Hacemos **git add .**
+* [x] Hacemos **git commit -am ""Crea funcion loadTask()"**
+* [x] Hacemos **git push**
+
+* [] Usamos paquetes importados en nuestro codigo con la funcion **saveTask()**
+* [] Exportamos nuestra funcion **saveTask()**
+* [] Pruebas de saveTask
+* [] Hacemos **git add .**
+* [] Hacemos **git commit -am "Crea una funcion saveTask()"**
+* [] Hacemos **git push**
