@@ -63,9 +63,9 @@ Prof. Remote link: https://github.com/marvindejesusrosariodelgado/js-curso-19-5b
 * [x] Hacemos **git commit -am ""Crea funcion loadTask()"**
 * [x] Hacemos **git push**
 
-* [] Usamos paquetes importados en nuestro codigo con la funcion **saveTask()**
-* [] Exportamos nuestra funcion **saveTask()**
-* [] Pruebas de saveTask
-* [] Hacemos **git add .**
-* [] Hacemos **git commit -am "Crea una funcion saveTask()"**
-* [] Hacemos **git push**
+* [x] Usamos paquetes importados en nuestro codigo con la funcion **saveTask()**
+* [x] Exportamos nuestra funcion **saveTask()**
+* [x] Pruebas de saveTask
+* [x] Hacemos **git add .**
+* [x] Hacemos **git commit -am "Crea una funcion saveTask()"**
+* [x] Hacemos **git push**
