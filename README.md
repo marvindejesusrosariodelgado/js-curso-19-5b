@@ -36,20 +36,19 @@ Prof. Remote link: https://github.com/marvindejesusrosariodelgado/js-curso-19-5b
 
 ### Lab 8.2 Creacion Organizacion de proyecto.
 * [x] Crear el archivo **node-CLI/app.js
-* [x] hacemos **git add**
+* [x] hacemos **git add .**
 * [x] Hacemos **git commit -am "crea app.js"**
 * [x] Hacemos **git push**
 
 
-* [] Crear el directorio **node-CLI/tools** con
-* []  Crear **node-CLI/tools/index.js**
-* [] Crear **node-CLI/tools/argvs.js**
-* [] Crear **node-CLI/tools/files.js**
-* [] Crear **node-CLI/tools/options.js**
-* [] Crear **node-CLI/tools/task.js**
-
-* [] Crear el directorio **node-CLI/db** con
-* [] Hacemos  **node-CLI/db/task.json**
-* [] hacemos **git add**
-* [] Hacemos **git commit -am "crea tools settings"**
-* [] Hacemos **git push**
+* [x] Crear el directorio **node-CLI/tools** con
+* [x]  Crear **node-CLI/tools/index.js**
+* [x] Crear **node-CLI/tools/argvs.js**
+* [x] Crear **node-CLI/tools/files.js**
+* [x] Crear **node-CLI/tools/options.js**
+* [x] Crear **node-CLI/tools/task.js**
+* [x] Crear el directorio **node-CLI/db** con
+* [x] Hacemos  **node-CLI/db/task.json**
+* [x] hacemos **git add .**
+* [x] Hacemos **git commit -am "crea tools settings"**
+* [x] Hacemos **git push**
