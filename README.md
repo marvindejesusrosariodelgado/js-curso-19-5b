@@ -86,3 +86,11 @@ Prof. Remote link: https://github.com/marvindejesusrosariodelgado/js-curso-19-5b
 * [X] Hacemos **git add .**
 * [X] Hacemos **git commit -am "Configura argvs con opciones para los comandos"**
 * [X] Hacemos **git push**
+
+### Lab 8.5 a trabjamos en funciones para los tasks o tareas.
+* [x] Empezamos a trabajar con **tasks.js**
+* [x] Creamos funciones para trabajar los tasks;*createTask*updateTask*eraseTask
+* [x] Exportamos nuestras funciones.
+* [x] Hacemos **git add .**
+* [x] Hacemos **git commit -am "Configura argvs con opciones para los comandos"**
+* [x] Hacemos **git push**
