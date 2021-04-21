@@ -26,25 +26,11 @@ files.saveTask(listTask);
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //TODO: Crear funcion marcar completed con true
 
 const updateTask = (title) => {
-let list = files.loadTask();
+
+    let list = files.loadTask();
 
     if (title in list) {
         list[title] = {...list[title], completed: true }
@@ -53,3 +39,24 @@ let list = files.loadTask();
         console.log(`Este titulo no existe ${title}`.red);
     }
 }
+
+
+//TODO: Crear funcion borrasr tasks
+
+const eraseTask = (title) => {
+ let list = files.loadTask();
+
+    if (title in list) {
+        delete list[title]
+        files.saveTask(list);
+    } else {
+        console.log(`Este titulo no existe ${title}`.red);
+    }
+
+
+
+    module.exports = {
+        createTask,
+        eraseTask,
+        updateTask
+    }
