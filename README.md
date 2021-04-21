@@ -69,3 +69,20 @@ Prof. Remote link: https://github.com/marvindejesusrosariodelgado/js-curso-19-5b
 * [x] Hacemos **git add .**
 * [x] Hacemos **git commit -am "Crea una funcion saveTask()"**
 * [x] Hacemos **git push**
+
+
+### Lab 8.4 Trabjando con opciones de Yargs.
+* [X] Empezamos a trabajar con **options.js**
+* [X] Creamos los objetos para nuestro comandos:
+* description
+* title
+* completed
+* erased 
+* [X] Creamos las opciones para nuestro comandos:
+* opcionsCreate
+* opcionsUpdate
+* opcionsErase
+* [X] Exportamos nuestras opciones
+* [X] Hacemos **git add .**
+* [X] Hacemos **git commit -am "Configura argvs con opciones para los comandos"**
+* [X] Hacemos **git push**
