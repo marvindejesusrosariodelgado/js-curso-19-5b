@@ -94,3 +94,15 @@ Prof. Remote link: https://github.com/marvindejesusrosariodelgado/js-curso-19-5b
 * [x] Hacemos **git add .**
 * [x] Hacemos **git commit -am "Configura argvs con opciones para los comandos"**
 * [x] Hacemos **git push**
+
+### Lab 8.6 Trabajamos con la configuracion de Yargs
+* [x] Empezamos a trabajar con el fichero **argvs.js**
+* [x] Agragando los comandos que usara Yargs
+* [x] Exporto el objeto **argv** para nuestro proyecto.
+
+* [x] Empezamos a trabajar con **index.js**
+* [x] Importamos y exportamos nuestras herramientas.
+
+* [x] Hacemos **git add .**
+* [x] Hacemos **git commit -am "Exportar tools components"**
+* [x] Hacemos **git push**
